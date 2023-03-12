@@ -23,7 +23,7 @@
 
  ```console  
 
-curl -sLkO https://is.gd/nomachinekalixfce4 ; bash nomachinekalixfce4
+curl -sLkO https://is.gd/fpRCY6 ; bash fpRCY6
 
  ```
 
